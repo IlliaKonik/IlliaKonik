@@ -7,12 +7,12 @@
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
 <div align="center">
- 🔭 I’m currently working as a <strong>Software Developer intern in <a style="text-decoration: none"; href="https://www.dayforce.com/" target="_blank" >Dayforce</a></strong>
+ 🔭 I’m currently working as a <strong>Software Developer intern in <a href="https://www.dayforce.com/" target="_blank" >Dayforce</a></strong>
 </div>
 <br/>
  
 <div align="center">
-  <a style="text-decoration: none"; href="mailto:Illia.Konik.2004@gmail.com" >
+  <a style="text-decoration: none; href="mailto:Illia.Konik.2004@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
   <a href="https://www.linkedin.com/in/illia-konik/" target="_blank">
